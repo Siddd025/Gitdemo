@@ -1,1 +1,1 @@
-echo "Change from branch2"
+echo "Change from main"
