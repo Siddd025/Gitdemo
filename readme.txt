@@ -1,1 +1,1 @@
-echo "Version 1 of project"
+echo "Version 2 of project"
